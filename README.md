@@ -2,11 +2,11 @@
 # Project Name
 
 ## Description
-This project is designed to [briefly explain purpose].  
-It helps [target audience] to [main functionality or benefit].  
-Built with [technologies/frameworks], it provides [key features].  
+This project is created to understand GitHub basics and version control.  
+It helps students learn how to create repositories, branches, and commits.  
+Built using GitHub, it demonstrates collaboration through pull requests.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Repository creation and management  
+- Branching and committing changes  
+- Collaboration using pull requests  
